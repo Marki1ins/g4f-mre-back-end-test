@@ -4,7 +4,7 @@ import { ApiBody, ApiOperation, ApiResponse, ApiTags, ApiParam } from "@nestjs/s
 import { CreateOrUpdateRoomDto } from "./news.dto";
 import { NewsService } from "./news.service";
 
-@ApiTags("noticia")
+@ApiTags("Notícia")
 @Controller("noticia")
 export class NewsController {
   constructor(private readonly newsService: NewsService) {}
