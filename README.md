@@ -44,7 +44,7 @@ Isso vai iniciar dois containers:
 
 ## Scripts de Desenvolvimento
 
-Se você preferir rodar o projeto localmente sem Docker, o seu NodeJS precisa está na versão `22.13.1`. Então, pode usar o seguintes scripts:
+Se você preferir rodar o projeto localmente sem Docker, o seu [NodeJS](https://nodejs.org/pt/download) precisa está na versão `22.13.1`. Então, pode usar o seguintes scripts:
 
 ```bash
 npm install
